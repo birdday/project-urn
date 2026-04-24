@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-image: assets/images/pic01.jpg
+image: assets/images/office.jpg
 nav-menu: true
 ---
 
