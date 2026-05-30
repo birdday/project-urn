@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: assets/images/office.jpg
+image: /assets/images/office.jpg
 nav-menu: true
 show_tile: false
 ---
