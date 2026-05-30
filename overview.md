@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: landing
-image: /assets/images/circuit.jpg
+image: ./assets/images/circuit.jpg
 nav-menu: true
 ---
 
