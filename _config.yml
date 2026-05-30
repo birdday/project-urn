@@ -4,7 +4,7 @@ subtitle: universal robotic nose
 email: 22bday@gmail.com
 description: Digitizing the sense of smell for next generation technologies
 baseurl: "" # the subpath of your site, e.g. /blog
-url: projecturn.com # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address:
 city:
