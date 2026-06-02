@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Contact
+layout: mailing_list
+title: Mailing List
 image: ./assets/images/office.jpg
 nav-menu: true
 show_tile: false
@@ -13,8 +13,8 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Contact Us</h1>
-			<p>Just want to stay updated on our progess? <a href="{% link mailing.md %}">Join our mailing list instead!</a></p>
+			<h1>Join our mailing list!</h1>
+            <p>Want to get in touch? <a href="{% link contact.md %}">Feel free to contact us instead!</a></p>
 		</header>
 
 </div>
