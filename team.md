@@ -29,7 +29,7 @@ nav-menu: true
         </p>
         <p>
             <span class="image left"><img src="{% link assets/images/people/cory.jpg %}" alt="" /></span>
-            Cory Simon<br><span class="team-small">Oregon State University<br> <br>Cory Simon is an Associate Professor of Chemical Engineering at Oregon State University. His lab focuses on the development of mathematical models and machine learning algorithms to make data driven predicitons for materials design and discovery, uncertainty quantification, and computational sensing device design.</span>
+            Cory Simon<br><span class="team-small">Oregon State University<br> <br>Cory Simon is an Associate Professor of Chemical Engineering at Oregon State University. His research focuses on the development of mathematical and machine learning models to design and analyze the response patterns of gas sensor arrays.</span>
         </p>
     </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: Contact
 image: ./assets/images/office.jpg
 nav-menu: true
